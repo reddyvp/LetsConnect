@@ -56,7 +56,7 @@ export function DiscoverPage() {
   }
 
   return (
-    <div className="flex-1 flex flex-col">
+    <div className="flex-1 flex flex-col relative">
       {/* Cards area */}
       <div className="flex-1 px-4 pt-4 pb-20 relative">
         <div className="max-w-md mx-auto h-full relative">
